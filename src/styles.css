@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rating-btn {
+  overflow-x: hidden;
+  position: relative;
+  padding: 10px;
+  border: 1px solid;
+  cursor: pointer;
+  user-select: none;
+  margin-block-start: 200px;
+}
+
+.heart {
+  height: 15px;
+  position: absolute;
+}
+
+.rating-container {
+  position: relative;
+}
